@@ -1,6 +1,8 @@
+## 📊 Flujograma del Proceso de Reserva de SmartPark
+
 ```mermaid
 graph TD
-  
+    %% Símbolos: A[Óvalo/Inicio], D{Rombo/Decisión}, C[Rectángulo/Proceso], B((Cilindro/BD))
 
     A[INICIO: Conductor busca estacionamiento] --> B(Abrir App SmartPark);
 
