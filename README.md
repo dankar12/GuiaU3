@@ -1,7 +1,9 @@
 ## 📊 Flujograma del Proceso de Reserva de SmartPark Corregido
 
 **```mermaid**
+
 graph TD
+    
     A[INICIO: Conductor busca estacionamiento] --> B(Abrir App SmartPark);
 
     B --> C{Consultar Base de Datos SmartPark};
