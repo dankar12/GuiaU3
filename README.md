@@ -1,3 +1,4 @@
+```mermaid
 graph TD
     %% Símbolos: A[Óvalo/Inicio], D{Rombo/Decisión}, C[Rectángulo/Proceso], B((Cilindro/BD))
 
