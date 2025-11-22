@@ -36,4 +36,3 @@ graph TD
     P -- NO --> Q[Notificar Usuario con Cuenta Pendiente];
     P -- SÍ --> R[Liberar Espacio en Tiempo Real (BD)];
     R --> S[FIN];
-   
